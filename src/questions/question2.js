@@ -1,22 +1,14 @@
 const answer = `
-Şuanki iş durumum iş arayışındayım
- hem boş kalmamak için hemde kendimi geliştirmek
-için workintech üzerinden online eğitim almaktayım,geçmişteki deneyimlerimden bahsetmem gerekirse Okulumun son dönemi 70 iş günü olan dönem stajımı,
-Vakıfbank mobil uygulama geliştirme departmanında tamamladım, bu süreçte firmada uygulanan
- çalışma prensibide agile'nin bir örneği olan scrum'dı bende bu prensibe ve metodolojiye 
- uygun olarak verilen görevleri yerine getidim bu süreçte github'ı bol bol kullandım projelerimdeki
-  update'leri pushladıktan sonra mentor'umle review ettik bu 70 günlük süreçte
-kotlin üzerinden 2 mobil application geliştirdim birisi weather app diğeri'de social media clone app 
-weather app de kulandığım teknolojiler api'lerden veri çekmek için retrofit scroll için recycler view kullandım,
-Sosyal medya clone projemde ise firebase retrofit MVVM mimarisi görsel işlemler için glide kütüphanesi DI olarak hilt kullandım,
- addSnopshotListenerler ile anlık olarak dinleyip atılan post veya story'lere ulaşabildim keza mesajlaşma içinde firebase'nin realtime data'base'sini 
- kullandım authentication için yine firebase'yi kullandım,  
-`
+Şu an iş arayışındayım. Hem boş kalmamak hem de kendimi geliştirmek amacıyla Workintech üzerinden online eğitim almaktayım.
+
+Geçmiş deneyimlerimden bahsetmem gerekirse, okulumun son dönemindeki 70 iş günü zorunlu stajımı VakıfBank Mobil Uygulama Geliştirme Departmanında tamamladım. Bu süreçte firmada uygulanan çalışma prensibi, Agile metodolojisinin bir örneği olan Scrum'dı. Ben de bu prensibe ve metodolojiye uygun olarak verilen görevleri yerine getirdim. Proje geliştirme aşamasında GitHub'ı sıkça kullandım; projelerdeki güncellemeleri pushladıktan sonra mentorumla birlikte kodları review ettik.
+
+Bu 70 günlük staj süresince Kotlin kullanarak iki mobil uygulama geliştirdim. İlki hava durumu (weather) uygulamasıydı. Bu uygulamada API’lerden veri çekmek için Retrofit, listeleme işlemleri için ise RecyclerView kullandım. Diğer uygulamam, bir sosyal medya (social media) clone projesiydi. Bu projede Firebase, Retrofit, MVVM mimarisi, görseller için Glide kütüphanesi ve bağımlılık enjeksiyonu için Hilt kullandım. addSnapshotListener ile anlık olarak gönderilen post veya story’leri dinleyip görüntüleyebildim. Mesajlaşma özelliğinde Firebase’in Realtime Database’ini, kimlik doğrulamada ise yine Firebase’i kullandım.
+`;
 
 const question2 = {
-    question: "Şu anki iş durumun nedir? Geçmiş iş/staj deneyimlerini anlatabilir misin?",
-    answer
-  };
-  
-  export default question2;
+  question: "Şu anki iş durumun nedir? Geçmiş iş/staj deneyimlerini anlatabilir misin?",
+  answer
+};
 
+export default question2;

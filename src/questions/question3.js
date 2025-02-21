@@ -1,7 +1,8 @@
 const answer = `
-Arkadaşlarımla üniversite yıllarında birkaç ortak projede yer aldım. Birlikte web arayüzleri tasarlama ve temel düzeyde frontend geliştirme çalışmaları yaptık. Bu ekip projelerinde görev dağılımı yaparak ilerledik; ben tasarım ve kullanıcı deneyimi (UI/UX) odaklı çalışmalara ağırlık verirken, diğer arkadaşlarım da backend ve veritabanı yönetimi gibi alanlarda sorumluluk aldılar. Bu süreçte ekip içi iletişim, proje takibi ve sorumluluk paylaşımı konularında deneyim kazandım.
-
-Staj dönemlerim ise daha profesyonel bir ortamda, özellikle Agile/Scrum metodolojisini yakından deneyimleyebildiğim için oldukça verimli geçti. Bu sayede ekip çalışmasının önemini, düzenli toplantılarla geri bildirim almanın ve planlama yapmanın projeleri nasıl daha etkili hale getirdiğini deneyimleme fırsatı buldum.
+Üniversite yıllarında, arkadaşlarımla birlikte web arayüzü tasarımı ve temel frontend geliştirme projelerinde yer aldım.
+ Benim ağırlığım UI/UX tasarımı olurken, diğer arkadaşlar backend ve veritabanı yönetimi yaptı. Bu süreç, ekip içi iletişim ve proje
+  takibi konusunda deneyim kazanmamı sağladı. Staj dönemlerimde ise Agile/Scrum metodolojisiyle çalışarak, düzenli toplantılar, 
+geri bildirim ve planlamanın projeleri daha etkili hale getirdiğini öğrendim.
 `;
 
 const question3 = {
